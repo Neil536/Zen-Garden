@@ -1,0 +1,35 @@
+h1{font-size: 50px; 
+  color: white; 
+  background-color: red;
+  padding: 20px;
+border-color: black;
+border-width: 5px;
+border-style: ridge;
+text-transform: uppercase}
+
+h2{color: white;
+  background-color: red; 
+  padding: 20px;
+  border-color: black;
+  border-width: 5px;
+  border-style: ridge
+}
+
+h3{color: white;
+  background-color: red; 
+  padding: 20px;
+border-color: black;
+border-width: 5px;
+border-style: ridge}
+
+p{padding: 10px;
+  color: white; 
+  background-color: black; 
+border-color: red;
+border-width: 5px;
+border-style: ridge
+  }
+
+a{color: red}
+li{color: white}
+aside{background-color: black;
