@@ -34,4 +34,4 @@ a{color: red}
 li{color: white}
 aside{background-color: black;
 
-background: url('BWR.jpeg')
+background: url('BWR.jpeg') no-repeat center center fixed;
