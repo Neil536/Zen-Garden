@@ -1,13 +1,11 @@
 body {background-image: url('Red White Math Mandala.jpg');}
 
-div{display: flex;
-flex-flow: row wrap;
-text-align: center;
-padding: 10px
-margin: 10px;
-width: 200px
-height: 200px;
-margin: 20px;
+div{display: grid;
+grid-template-columns: 3, 1fr;
+grid-auto-rows: minmax(100px, auto);
+max-width: 200px;
+margin: 0 auto;
+grid-gap: 20px;
 }
 
 h1{font-size: 50px; 
