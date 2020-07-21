@@ -2,7 +2,10 @@ body {background-image: url('Red White Math Mandala.jpg') no-repeat center cente
 
 div{display: flex;
 flex-flow: row wrap;
-text-align: center;}
+text-align: center;
+width: 200px
+height: 200px;
+margin: 20px;}
 
 h1{font-size: 50px; 
   color: white; 
