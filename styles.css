@@ -1,3 +1,5 @@
+body {background-image: url('BWR.jpeg') no-repeat center center fixed;}
+
 h1{font-size: 50px; 
   color: white; 
   background-color: red;
@@ -33,6 +35,4 @@ border-style: ridge
 a{color: red}
 li{color: white}
 aside{background-color: black;
-
-background: url('BWR.jpeg') no-repeat center center fixed;
 
