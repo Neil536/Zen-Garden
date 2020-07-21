@@ -1,4 +1,4 @@
-body {background-image: url('Red White Math Mandala.jpg');
+body {background-image: url('Red White Math Mandala.jpg') center center;
 background-size: cover;}
 
 div{display: flex;
