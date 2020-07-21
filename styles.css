@@ -1,4 +1,5 @@
-body {background-image: url('Red White Math Mandala.jpg')}
+body {background-image: url('Red White Math Mandala.jpg');
+background-size: cover;}
 
 h1{font-size: 50px; 
   color: white; 
