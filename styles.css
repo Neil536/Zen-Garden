@@ -1,40 +1,48 @@
-body {background-image: url('Red White Math Mandala.jpg'); no-repeat;}
+body {background-image: url('masaaki-komori-fzHaSRdAi68-unsplash.jpg');
+background-size: 100%}
 
 div{display: flex;
   justify-content: space-around;
   align-items: center;
-  flex-wrap: wrap;}
+  flex-wrap: wrap;
+  }
 
-h1{font-size: 50px; 
-  color: white; 
-  background-color: red;
+
+h1{text-align: center;
+  font-size: 50px; 
+  color: red; 
+  background-color: pink;
   padding: 20px;
 border-color: black;
-border-width: 5px;
+border-width: 10px;
 border-style: ridge;
-text-transform: uppercase
+text-transform: uppercase;
 }
 
-h2{color: white;
+h2{text-align: center;
+  color: white;
   background-color: red; 
   padding: 20px;
   border-color: black;
-  border-width: 5px;
+  border-width: 10px;
   border-style: ridge
 }
 
-h3{color: white;
+h3{align-items: center;
+  color: white;
   background-color: red; 
   padding: 20px;
 border-color: black;
-border-width: 5px;
-border-style: ridge}
+border-width: 10px;
+border-style: ridge;
 
-p{padding: 10px;
+}
+
+p{padding: 20px;
   color: white; 
   background-color: black; 
 border-color: red;
-border-width: 5px;
+border-width: 10px;
 border-style: ridge
   }
 
