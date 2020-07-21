@@ -1,11 +1,14 @@
-body {background-image: url('Red White Math Mandala.jpg') no-repeat center center fixed;}
+body {background-image: url('Red White Math Mandala.jpg');}
 
 div{display: flex;
 flex-flow: row wrap;
 text-align: center;
+padding: 10px
+margin: 10px;
 width: 200px
 height: 200px;
-margin: 20px;}
+margin: 20px;
+}
 
 h1{font-size: 50px; 
   color: white; 
